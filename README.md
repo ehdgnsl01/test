@@ -5,7 +5,7 @@
    <br>
   
 프론트엔드 : ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<hr>
+<br>
 백엔드 :![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 </details>
